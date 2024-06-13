@@ -25,9 +25,9 @@
 🎯AIM (bias Attribution, Interpretation, Mitigation) is a framework for more **transparent**, **auditable**, and **efficient** **fair machine learning** (**FairML**).
 It aims to assist FairML researcher and practitioners in addressing the following problems:
 
-- 🧐**Attribution**: <font color="orange">**Which**</font> sample carries bias and contribute to unfairness?
-- 🤔**Interpretation**: <font color="orange">**Why**</font> is a particular sample biased (i.e., reflecting discrimination)?
-- 🤗**Mitigation**: <font color="orange">**How**</font> to counter unfairness with auditable data editing and minimal utility loss?
+- 🧐**Attribution**: $\textcolor{orange}{\textsf{Which}}$ sample carries bias and contribute to unfairness?
+- 🤔**Interpretation**: $\textcolor{orange}{\textsf{Why}}$ is a particular sample biased (i.e., reflecting discrimination)?
+- 🤗**Mitigation**: $\textcolor{orange}{\textsf{How}}$ to counter unfairness with auditable data editing and minimal utility loss?
 
 As of now, we provide the development scripts in the `src` directory.
 We will clean and refactor the codebase, but may take some time (due to limited bandwidth), please stay tuned for the updates.
